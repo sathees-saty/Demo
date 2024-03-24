@@ -12,7 +12,7 @@ Steps:
 11)	Under Demo project, create DemoController under src/main/java.
 12)	Under Demo project, create welcome.html under src/main/resources , inside that templates folder.
 13)	Tomcat server is default configured for this project
-14)	Right click DemoController, run as “spring boot app” , don’t select other option
+14)	Right click **DemoApplication**, run as “spring boot app” , don’t select other option
 15)	Server started in port 8080
 16)	Run http://localhost:8080/greeting in browser
 17)	If you are making any changing you need to re-start server in Spring Tool  Suite 4
