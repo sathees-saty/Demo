@@ -15,3 +15,4 @@ Steps:
 14)	Right click DemoController, run as “spring boot app” , don’t select other option
 15)	Server started in port 8080
 16)	Run http://localhost:8080/greeting in browser
+17)	If you are making any changing you need to re-start server in Spring Tool  Suite 4
